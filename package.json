@@ -1,0 +1,12 @@
+{
+  "name": "wp-last-seen",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "wp-env start"
+  },
+  "author": "Przemek Ciąćka",
+  "devDependencies": {
+    "@wordpress/env": "^8.7.0"
+  }
+}
